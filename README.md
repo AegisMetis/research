@@ -1,2 +1,2 @@
-# research
-Investigación y pruebas
+# Research
+Repositorio para la investigación y pruebas.
