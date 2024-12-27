@@ -1,0 +1,24 @@
+Data Science con Python - Numpy & Pandas [2024]
+  https://indra.udemy.com/course/data-science-con-python-numpy-pandas/
+  Valoración: 4,6 (613 calificaciones) 9742 estudiantes
+  Creado por: Ivan Pinar Domínguez
+  Fecha Última actualización: 11/2024
+  Idioma: Español
+  Subtítulos: Español [automático]
+  Este curso incluye:
+    5 horas de vídeo bajo demanda
+    5 artículos
+    8 recursos descargables
+    Acceso en dispositivos móviles
+    Tareas
+    Certificado de finalización
+
+
+En la clase 1 encontrará todo el material del curso, incluidos 2 ficheros comprimidos con todo lo necesario para realizar los ejercicios propuestos durante el mismo:
+
+- Datasets Data Science con Python – Pandas: Contiene todos los datasets con las fuentes de datos organizados por “código de bloque.código de clase”,
+  es decir, la tercera clase del bloque 5 precisa de las fuentes de datos que se encuentran en la carpeta 5.3.
+
+- Scripts Data Science con Python – Pandas: Contiene todos los scripts organizados por “código de bloque.código de clase”,
+  es decir, la tercera clase del bloque 5 tiene un script de solución con la codificación “5.3 Importar fichero CSV.ipynb”.
+
